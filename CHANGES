@@ -1,2 +1,5 @@
+1.0.2 2023-10-14
+  - These files were replaced: sub-sc023/func/sub-sc023_task-RepYo1_bold.nii.gz sub-sc023/func/sub-sc023_task-RepYo2_bold.nii.gz sub-sc024/anat/sub-sc024_T1w.nii.gz sub-sc024/func/sub-sc024_task-RepYo1_bold.nii.gz sub-sc024/func/sub-sc024_task-RepYo2_bold.nii.gz sub-sc025/func/sub-sc025_task-RepYo1_bold.nii.gz
+  - Replaced all corrupted files
 1.0.1 2023-10-14
   - Replaced corrupted files
